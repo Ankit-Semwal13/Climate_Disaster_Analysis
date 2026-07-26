@@ -7,6 +7,13 @@ This project analyzes global natural disasters using the EM-DAT (Emergency Event
 The project combines exploratory data analysis, analytical visualizations, and dashboard development to support data-driven decision-making.
 
 ---
+# 🌍 Global Climate & Natural Disaster Analysis (1970–2021)
+
+## 🚀 Live Demo
+
+👉 https://climatedisasteranalysis-aerwzdsvaeayvbo8ixwtaw.streamlit.app/
+
+---
 
 ## 🎯 Objectives
 
