@@ -191,18 +191,6 @@ streamlit run app.py
 
 ---
 
-# 📷 Dashboard Screenshots
-
-*(Add screenshots of your dashboard here.)*
-
-Suggested screenshots:
-
-- Overview Tab
-- Human Impact Tab
-- Disaster Analysis Tab
-- Economic Impact Tab
-
----
 
 # 👨‍💻 Author
 
